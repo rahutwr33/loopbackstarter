@@ -1,0 +1,10 @@
+{
+  "connector": "mongodb",
+  "url": "mongodb://locahost:27017",
+  "host": "localhost",
+  "port": 27017,
+  "user": "",
+  "password": "",
+  "database": "test",
+  "useNewUrlParser": true
+}
